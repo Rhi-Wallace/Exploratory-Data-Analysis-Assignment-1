@@ -1,6 +1,6 @@
 ## Exploratory-Data-Analysis-Assignment-1 
 # Overview
-- In this repo you will find R scripts to create four different plots use the base plotting fucntion in R. I have also include png files of the four plots in this repo.
+- In this repo you will find R scripts to create four different plots use the base plotting function in R. I have also included png files of the four plots in this repo.
 
 # Dataset
 - This assignment utilizes data from the UC Irvine Machine Learning Repository. For this analysis you will use the “Individual household electric power consumption Data Set” 
